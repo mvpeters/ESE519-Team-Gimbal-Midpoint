@@ -1,2 +1,2 @@
-Below are the materials we have assembled so far
+Below are the materials we have assembled so far. The three servos are connected to pins A0, A1, A2 on the RP2040 to send the PWM signals. They are powered by a 5v DC power supply and all share a common ground. The MPU6050 Gyro sensor is connected by the STEMMA QT cable and feeds the data to the chip to process and turn the servos.
 ![image](https://user-images.githubusercontent.com/114199773/205517177-dce1f3e8-f323-496a-b818-98545b34d151.png)
